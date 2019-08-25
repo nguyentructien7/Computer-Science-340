@@ -1,0 +1,6 @@
+Prim's Sorted MST tree:
+Edge from: 6 to 4
+Edge from: 4 to 2
+Edge from: 2 to 5
+Edge from: 2 to 3
+Edge from: 5 to 1

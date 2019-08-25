@@ -1,0 +1,6 @@
+Kruskal's Sorted MST tree:
+Edge from: 6 to 4
+Edge from: 5 to 3
+Edge from: 2 to 5
+Edge from: 5 to 6
+Edge from: 3 to 1
